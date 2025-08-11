@@ -1,3 +1,3 @@
 # go-task-manager
 
-[Описание задачи](task.md)
+[Описание задачи](./docs/task.md)
