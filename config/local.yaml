@@ -1,0 +1,9 @@
+grpc:
+  port: 50051
+
+database:
+  host: "db"
+  port: "5432"
+  username: "postgres"
+  password: "postgres"
+  basename: "taskmanager"
